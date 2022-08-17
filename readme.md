@@ -5,20 +5,20 @@ git clone
 requirements.txt
 
 
-> Install Virtual Enviroment
--Windows
-python3 -m venv venv
-.\venv\Scripts\activate
-pip install flask
-pip install flask-mysqldb
-
-Install sql workbench and run the following query
+## Install Virtual Enviroment <br>
+> Windows  
+  - <code>python3 -m venv venv</code>  
+  - <code>.\venv\Scripts\activate</code>  
+  - <code>pip install flask  </code>  
+  - <code>pip install flask-mysqldb  </code>  
 
 
--Linux
+## Install sql workbench or xampp and Run the following query  
+<code> pip install </code>
 
 
-> Edit app.py
+>  Linux
 
 
-> Configure mysql
+- Edit app.py  
+- Configure mysql  
