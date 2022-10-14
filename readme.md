@@ -2,7 +2,7 @@
 
 To install this:
 git clone 
-requirements.txt
+requirements.txt 
 
 
 ## Install Virtual Enviroment <br>
